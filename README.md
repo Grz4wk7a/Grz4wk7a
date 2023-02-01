@@ -11,6 +11,7 @@ I am 13 years old
 
 ### *Discord*
 [Server](https://discord.gg/GBkpVpPKSp)
+
 [Profil](https://discord.com/users/850647239475068973)
 
 ### *Website*
