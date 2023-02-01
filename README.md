@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Grz4wk7a/Grz4wk7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **ABOUT ME**
 
-Here are some ideas to get you started:
+I am 13 years old
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 **LINKS**
+
+### *Youtube*
+[Grz4wk7a](https://www.youtube.com/channel/UC02-0dnbN7qM1rNjB_vy-Qw)
+
+### *Discord*
+[Server]
